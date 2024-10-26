@@ -1,0 +1,3 @@
+/Users/st-ew/Desktop/Code/Engine Developement/Sgread/Sgread/cmake-build-debug/CMakeFiles/Sgread.dir
+/Users/st-ew/Desktop/Code/Engine Developement/Sgread/Sgread/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/st-ew/Desktop/Code/Engine Developement/Sgread/Sgread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
