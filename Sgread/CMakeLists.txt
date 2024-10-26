@@ -9,7 +9,9 @@ include_directories(Game)
 find_package(SDL2 REQUIRED)
 find_package(OpenGL REQUIRED)
 find_package(box2d REQUIRED)
-find_package(unofficial-enet CONFIG REQUIRED)
+find_package(EnTT REQUIRED)
+find_package(imgui REQUIRED)
+#find_package(unofficial-enet CONFIG REQUIRED)
 
 file(GLOB ENGINE_SOURCES
         "Engine/*.cpp"
@@ -30,5 +32,7 @@ target_link_libraries(Sgread
         SDL2::SDL2
         OpenGL::GL
         box2d::box2d
-        unofficial::enet::enet
+        EnTT::EnTT
+        imgui::imgui
+        #unofficial::enet::enet
 )

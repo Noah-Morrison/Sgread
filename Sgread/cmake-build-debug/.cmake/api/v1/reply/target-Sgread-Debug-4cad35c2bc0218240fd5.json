@@ -28,7 +28,7 @@
 			{
 				"command" : 1,
 				"file" : 1,
-				"line" : 24,
+				"line" : 26,
 				"parent" : 0
 			},
 			{
@@ -40,7 +40,7 @@
 			{
 				"command" : 2,
 				"file" : 1,
-				"line" : 29,
+				"line" : 31,
 				"parent" : 0
 			},
 			{
@@ -100,7 +100,8 @@
 			{
 				"backtraces" : 
 				[
-					2
+					3,
+					3
 				],
 				"standard" : "17"
 			},
@@ -151,7 +152,7 @@
 			},
 			{
 				"backtrace" : 3,
-				"fragment" : "/Users/st-ew/.vcpkg-clion/vcpkg/installed/arm64-osx/debug/lib/libenet.a",
+				"fragment" : "/Users/st-ew/.vcpkg-clion/vcpkg/installed/arm64-osx/debug/lib/libimguid.a",
 				"role" : "libraries"
 			}
 		],

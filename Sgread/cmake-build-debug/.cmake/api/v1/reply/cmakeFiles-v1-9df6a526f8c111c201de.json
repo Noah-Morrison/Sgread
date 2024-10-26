@@ -201,15 +201,36 @@
 		},
 		{
 			"isExternal" : true,
-			"path" : "/Users/st-ew/.vcpkg-clion/vcpkg/installed/arm64-osx/share/unofficial-enet/unofficial-enet-config.cmake"
+			"path" : "/Users/st-ew/.vcpkg-clion/vcpkg/installed/arm64-osx/share/entt/EnTTConfigVersion.cmake"
 		},
 		{
 			"isExternal" : true,
-			"path" : "/Users/st-ew/.vcpkg-clion/vcpkg/installed/arm64-osx/share/unofficial-enet/unofficial-enet-config-debug.cmake"
+			"path" : "/Users/st-ew/.vcpkg-clion/vcpkg/installed/arm64-osx/share/entt/EnTTConfig.cmake"
 		},
 		{
 			"isExternal" : true,
-			"path" : "/Users/st-ew/.vcpkg-clion/vcpkg/installed/arm64-osx/share/unofficial-enet/unofficial-enet-config-release.cmake"
+			"path" : "/Users/st-ew/.vcpkg-clion/vcpkg/installed/arm64-osx/share/entt/EnTTTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/st-ew/.vcpkg-clion/vcpkg/installed/arm64-osx/share/imgui/imgui-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/st-ew/.vcpkg-clion/vcpkg/installed/arm64-osx/share/imgui/imgui-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/st-ew/.vcpkg-clion/vcpkg/installed/arm64-osx/share/imgui/imgui-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/st-ew/.vcpkg-clion/vcpkg/installed/arm64-osx/share/imgui/imgui-targets-release.cmake"
 		}
 	],
 	"kind" : "cmakeFiles",
